@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev Ops\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj": {}
+    "C:\\Users\\Dev Ops\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev Ops\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj": {
+    "C:\\Users\\Dev Ops\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev Ops\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj",
+        "projectUniqueName": "C:\\Users\\Dev Ops\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj",
         "projectName": "StringSwap",
-        "projectPath": "C:\\Users\\Dev Ops\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj",
+        "projectPath": "C:\\Users\\Dev Ops\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\StringSwap.csproj",
         "packagesPath": "C:\\Users\\Dev Ops\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev Ops\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\obj\\",
+        "outputPath": "C:\\Users\\Dev Ops\\Documents\\Visual Studio 2019\\Projects\\StringSwap\\StringSwap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
